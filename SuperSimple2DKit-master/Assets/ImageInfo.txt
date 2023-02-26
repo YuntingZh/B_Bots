@@ -1,0 +1,25 @@
+Folder: Characters
+Name: Bomb, Size: 32 x 31, Scale: 100, File size: 0.02 MB
+Name: Flyer, Size: 121 x 121, Scale: 100, File size: 0.03 MB
+Name: Walker, Size: 121 x 121, Scale: 100, File size: 0.03 MB
+
+Folder: Demo
+
+Folder: Global
+Name: Box, Size: 151 x 151, Scale: 100, File size: 0.04 MB
+Name: Coin, Size: 138 x 138, Scale: 100, File size: 0.03 MB
+Name: Flare, Size: 99 x 99, Scale: 100, File size: 0.00 MB
+Name: Glow, Size: 410 x 413, Scale: 100, File size: 0.02 MB
+Name: Heart, Size: 68 x 75, Scale: 100, File size: 0.03 MB
+Name: Key, Size: 177 x 121, Scale: 100, File size: 0.03 MB
+Name: Lock, Size: 70 x 70, Scale: 100, File size: 0.06 MB
+Name: SunShaft, Size: 223 x 796, Scale: 100, File size: 0.06 MB
+Name: WhiteSquare, Size: 28 x 28, Scale: 100, File size: 0.00 MB
+
+Folder: Menu
+
+Folder: UI
+Name: AppIcon, Size: 1024 x 1024, Scale: 100, File size: 5.86 MB
+
+Folder: Materials
+
